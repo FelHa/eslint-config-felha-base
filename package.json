@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-felha-base",
+  "version": "1.0.0",
+  "description": "Personal ESLint-base-settings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelHa/eslint-config-felha.git"
+  },
+  "keywords": [
+    "javascript",
+    "eslint"
+  ],
+  "author": "FelHa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelHa/eslint-config-felha/issues"
+  },
+  "homepage": "https://github.com/FelHa/eslint-config-felha#readme",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  }
+}
