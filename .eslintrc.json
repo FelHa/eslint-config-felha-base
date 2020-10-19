@@ -1,4 +1,4 @@
- {
+{
   "extends": ["airbnb-base"],
   "parser": "babel-eslint",
   "parserOptions": {
@@ -14,7 +14,7 @@
     "linebreak-style": "off",
     "func-names": "off",
     "class-methods-use-this": "off",
-    "semi": ["error", "always"]
-    
+    "semi": ["error", "always"],
+    "import/extensions": "off"
   }
 }
